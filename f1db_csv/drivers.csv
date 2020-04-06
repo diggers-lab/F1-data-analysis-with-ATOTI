@@ -1,4 +1,4 @@
-driverId,driverRef,number,code,forename,surname,dob,nationality,url
+driverId,driverRef,number,code,forename,surname,dob,nationality,driver_url
 1,"hamilton",44,"HAM","Lewis","Hamilton","1985-01-07","British","http://en.wikipedia.org/wiki/Lewis_Hamilton"
 2,"heidfeld",\N,"HEI","Nick","Heidfeld","1977-05-10","German","http://en.wikipedia.org/wiki/Nick_Heidfeld"
 3,"rosberg",6,"ROS","Nico","Rosberg","1985-06-27","German","http://en.wikipedia.org/wiki/Nico_Rosberg"

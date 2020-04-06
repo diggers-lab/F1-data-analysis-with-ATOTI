@@ -21,3 +21,6 @@ Steps for a Windows installation
 
 ## Install and configure Atoti
 Please refer to the atoti official documentation page
+
+David
+http://diggers-consulting.com

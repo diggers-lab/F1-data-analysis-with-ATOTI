@@ -3,24 +3,9 @@ Tutorial project with ATOTI, analyzing historical Formula1 data to understand th
 
 All details and prerequisites are described in the jupyter notebook.  
 
-## Before starting: install your local jupyter environment
-Steps for a Windows installation  
-1. Install conda (for example using MiniConda, a light distribution:  https://docs.conda.io/en/latest/miniconda.html )  
-  Be careful to correclty selection the 64 bits version and Python 3.7  
-  After installation, you should find a new application called "Anaconda Prompt"  
-2. Add conda-forge channel to your conda environment  
-  Launch the Anaconda prompt, and from the command line, execute:  
-  $ conda config --add channels conda-forge  
-3. Create  dedicated envrionment for your ATOTI project  
-  $ conda create --name atoti  
-  $ conda activate atoti  
-4. In your ATOTI environment, launch the following command:  
-  $ conda install jupyterlab nodejs openjdk python=3.7.4 pywin32  
-5. Finally, launch Jupyter lab  
-  $ jupyter lab  
-
-## Install and configure Atoti
-Please refer to the atoti official documentation page  
+## Before you start: install your Jupyter environment
+Follow the installation steps on atoti's official web page:  
+https://docs.atoti.io/0.3.1/installation.html 
 
 Contact: David at Diggers  
 http://diggers-consulting.com

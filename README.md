@@ -7,5 +7,5 @@ All details and prerequisites are described in the jupyter notebook.
 Follow the installation steps on atoti's official web page:  
 https://docs.atoti.io/0.3.1/installation.html 
 
-Contact: David at Diggers  
+Contact: david@diggers-consulting.com  
 http://diggers-consulting.com

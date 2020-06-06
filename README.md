@@ -5,7 +5,7 @@ All details and prerequisites are described in the jupyter notebook.
 
 ## Before you start: install your Jupyter environment
 Follow the installation steps on atoti's official web page:  
-https://docs.atoti.io/0.3.1/installation.html 
+https://docs.atoti.io/0.4.0/installation.html 
 
 Contact: david@diggers-consulting.com  
 http://diggers-consulting.com
